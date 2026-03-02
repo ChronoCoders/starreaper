@@ -4,6 +4,12 @@ version = "0.3.0"
 edition = "2021"
 description = "StarReaper — GitHub signal purification engine"
 license = "MIT"
+repository = "https://github.com/ChronoCoders/starreaper"
+homepage = "https://github.com/ChronoCoders/starreaper"
+keywords = ["github", "cli", "tui", "moderation", "security"]
+categories = ["command-line-utilities", "visualization"]
+readme = "README.md"
+
 
 [[bin]]
 name = "starreaper"
